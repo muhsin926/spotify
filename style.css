@@ -6,6 +6,9 @@ header{
 .logo{
     height: 40px;
 }
+body{
+    overflow-x: hidden;
+}
 .imag1{
     background-image: url("bubbles-dktp.svg");
     background-color: #ce3ba0;
